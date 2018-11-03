@@ -40,6 +40,9 @@ dist
 # intellij
 .idea
 
+# build folder
+build
+
 #yarn
 yarn.lock
 
